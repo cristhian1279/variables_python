@@ -22,7 +22,7 @@ print(f"El resultado es:{suma}")
 # Imprimir en pantalla el resultado de la suma
 # print(....)
 # Repita el procedimiento para realizar la resta
-resta = numero_1-numero_2
+rest = numero_1-numero2
 print(f"El resultado es:{resta}")
 # Reves
 resta_1 = numero_2 - numero_1
